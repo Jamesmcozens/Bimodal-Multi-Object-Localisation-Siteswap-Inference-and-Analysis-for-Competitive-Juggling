@@ -3,6 +3,6 @@ The project objective is to provide a generalised real-time and non-real-time mu
 
 Paper link: https://ieeexplore.ieee.org/document/10706333
 
-The code is currently being finalised and will be made available here soon. Please check back later for updates. Thank you for your interest in our work.
+The code is currently being finalised and will be made available here when it is ready. Please check back later for updates. Thank you for your interest in our work.
 
 ![alt text](https://github.com/Jamesmcozens/Bimodal-Multi-Object-Localisation-Siteswap-Inference-and-Analysis-for-Competitive-Juggling/blob/main/GITHUB%20IMAGE.png)
